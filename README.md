@@ -12,24 +12,24 @@ In the 3D space where the sound propagates, 3D obstacles giving reflections can 
 The real pressure and sound pressure level contours can be visualized at arbitrary planes parallel to the ground plane, and the sound pressure level can be computed at an arbitrary receiver position.
 
 # Inputs
-sources positions
-sources power spectra
-sources phases
-sources power amplitude
-obstacles vertices 2D (obstacles are extruded vertically from 2D)
-receivers positions
-Xy grid size
-Z coordinate of planes parallel to XY plane on which computing and plotting the solution
-Computational domain bounds
+- sources positions
+- sources power spectra
+- sources phases
+- sources power amplitude
+- obstacles vertices 2D (obstacles are extruded vertically from 2D)
+- receivers positions
+- Xy grid size
+- Z coordinate of planes parallel to XY plane on which computing and plotting the solution
+- Computational domain bounds
 
 # Outputs
-Real pressure field contour
-Sound pressure level contour
-3D representation of sources, receivers, direct and reflected rays and obstacles
+- Real pressure field contour
+- Sound pressure level contour
+- 3D representation of sources, receivers, direct and reflected rays and obstacles
 
 # Limitations
-No diffraction
-Only one reflection
+- No diffraction
+- Only one reflection
 
 
 
