@@ -28,8 +28,8 @@ Sound pressure level contour
 3D representation of sources, receivers, direct and reflected rays and obstacles
 
 # Limitations
-- no diffraction
-- only one reflection
+no diffraction
+only one reflection
 
 
 
