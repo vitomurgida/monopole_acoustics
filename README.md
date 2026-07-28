@@ -2,7 +2,7 @@
 An acoustic simulator using monopoles as sources and image-source method for obstacle reflections.
 
 # Motivation
-This code gives a tool that can be used for preliminary acoustic analyses of real situations where multiple sources exciting multiple frequency are present, as well as multiple obstacles giving reflections.
+This code gives a tool that can be used for preliminary acoustic analyses of real situations where multiple sources exciting multiple frequencies are present, as well as multiple obstacles giving reflections.
 
 # Introduction
 A monopole represents a pulsating mathematical point source, which can be used to approximate a real sound source in engineering applications when the size of the source is "much lower" than the sound wavelength (10 times less as a rule of thumb). Many standards for acoustics calculations, as for example ISO 9613-2, use monopoles as sources.    
